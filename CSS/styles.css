@@ -1,0 +1,144 @@
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+
+.highlight {
+  font-weight: bold;
+  background-color: yellow;
+  font-size: 20px;
+}
+
+
+.box {
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+
+@media (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1520975916090-3105956dac38");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+  margin-top: 10px;
+}
+
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border: none;
+  transition: background-color 0.5s;
+}
+
+button:hover {
+  background-color: green;
+}
+
+
+.relative-box {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  background-color: lightcoral;
+  padding: 10px;
+  width: 150px;
+}
+
+.absolute-box {
+  position: absolute;
+  top: 50px;
+  left: 200px;
+  background-color: lightseagreen;
+  padding: 10px;
+  width: 150px;
+}
+
+
+.text1 {
+  font-size: 16px; 
+}
+
+.text2 {
+  font-size: 1.5em;
+}
+
+.text3 {
+  font-size: 1.5rem; 
+}
+
+
+.two-column {
+  display: flex;
+  gap: 10px;
+}
+
+.two-column > div {
+  flex: 1;
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.red {
+  color: rgb(255, 0, 0);
+}
+
+.green {
+  color: #00ff00;
+}
+
+.blue {
+  color: hsl(240, 100%, 50%);
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f9dfe6;
+  text-align: center;
+  padding: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 5px;
+}
+
+main {
+  padding: 15px;
+}
+
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 5px;
+}
+ 
+
+
+
+

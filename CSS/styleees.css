@@ -1,0 +1,99 @@
+  
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #FAF9F6;
+      margin-top: 40px;
+    }
+
+    table {
+    border:none;
+    border-collapse: collapse;
+      width: 80%;
+      text-align: center;
+    }
+
+caption{
+text-align:left;
+font-weight:bold;
+font-size:30px;
+margin-bottom:10px;
+}
+
+    th, td {
+      border: none;;
+      padding: 10px;
+      color: black;
+    }
+
+    
+td{
+transition:background-color 0.3 ease;}
+.light-blue { background-color: #F8C8DC; color:#8B4000;}
+.light-blue:hover
+{background-color:#FF6347;}
+.neon-blue { background-color:#F89880; color:#770737;} 
+.neon-blue:hover
+{background-color:#FFD700;}   
+.dark-blue { background-color: #FAA0A0;} 
+.dark-blue:hover
+{background-color:#DA70D6;}
+.light-pink {background-color:#F2D2BD;}
+.light-pink:hover
+{background-color:#FF69B4;}
+.magenta{background-color:#9F2B68;}
+.magenta:hover
+{background-color:#DA70D6;}
+.purple{background-color:#FFF5EE;}
+.purple:hover
+{background-color:#AD1457;}
+.price{background-color:#C04000;color:#FFDEAD;}
+.price:hover
+{background-color:#FF6347;}
+.green{background-color:#811331;color: white;}
+.green:hover
+{background-color:#AD1457;}
+.yellow{backgound-color:#FFECC5;}
+.marcela{background-color:#986868;}
+.marcela:hover
+{background-color:#B97A7A;}
+.bright{background-color:#E30B5C;}
+.bright:hover
+{background-color:#FF69B4;}
+.coral{background-color:#FF7F50;}
+.coral:hover
+{background-color:#FF4500;}
+.orchid{background-color:#DA70D6;}
+.orchid:hover
+{background-color:#DA70D6;}
+.thistle{background-color:#D8BFD8;}
+.thistle:hover
+{background-color:#E6A8D7;}
+.bisque{background-color:#FFF5EE;}
+.bisque:hover
+{background-color:#FFE4C4;}
+.dusty-rose{background-color:#C9A9A6;}
+.dusty-rose:hover
+{background-color:#E9967A;}
+.brick-red{background-color:#AA4A44;}
+.brick-red:hover
+{background-color:#B22222;}
+.puce{background-color:#A95C68;}
+.puce:hover
+{background-color:#C88F8F;}
+.pink{background-color:#FFC0CB;}
+.pink:hover
+{background-color:#FF1493;}
+.light-brown{background-color:#C4A484;}
+.light-brown:hover
+{background-color:#D2B48C;}
+    
+    .table2 th {
+      background-color: #4169E1;
+      color: white;
+      font-weight: bold;
+    }
+
+    .pastel { background-color: #CCCCFF; }   
+    .pastel:hover{background-color:#9FE2BF;}
+    .very-light { background-color:#F0F8FF; }
+    .very-light:hover{background-color:#9FE2BF;} 
