@@ -2,33 +2,33 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #FFF7F3; 
+  background-color: #fff7f3; 
   color: #333;
 }
 
 
 header {
-  background-color: #F3D6D6; 
+  background-color: #f3d6d6; 
   text-align: center;
   padding: 20px;
-  border-bottom: 3px solid #E2B3B3;
+  border-bottom: 3px solid #e2b3b3;
 }
 
 h1 {
   margin: 0;
-  color: #9A4F70; 
+  color: #9a4f70; 
 }
 
 
 nav a {
   text-decoration: none;
-  color: #7A4B4B;
+  color: #7a4b4b;
   font-weight: bold;
   margin: 0 10px;
 }
 
 nav a:hover {
-  color: #BB6C6C;
+  color: #bb6c6c;
 }
 
 
@@ -45,7 +45,7 @@ main {
 
 
 .product {
-  background-color: #FFECE2; 
+  background-color: #ffece2; 
   padding: 10px;
   border-radius: 10px;
   box-shadow: 0 0 5px rgba(0,0,0,0.1);
@@ -76,25 +76,25 @@ main {
   background-color: #fff;
   padding: 8px;
   border-radius: 8px;
-  border: 1px solid #F1C6C6;
+  border: 1px solid #f1c6c6;
 }
 
 
 footer {
   text-align: center;
-  background-color: #F3D6D6;
+  background-color: #f3d6d6;
   padding: 20px;
   margin-top: 30px;
-  border-top: 3px solid #E2B3B3;
+  border-top: 3px solid #e2b3b3;
 }
 
 
 @media (max-width: 600px) {
   body {
-    background-color: #FDEEED;
+    background-color: #fdeeed;
   }
 }
- 
+
 
 
 
